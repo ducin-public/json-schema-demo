@@ -1,0 +1,21 @@
+{
+  "name": "json-schema-demo",
+  "version": "1.0.0",
+  "description": "JSON Schema demo repository",
+  "main": "package.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducin/json-schema-demo"
+  },
+  "keywords": [
+    "json",
+    "schema"
+  ],
+  "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/ducin/json-schema-demo",
+  "dependencies": {
+    "chance": "^0.7.5",
+    "faker": "^2.1.5"
+  }
+}
