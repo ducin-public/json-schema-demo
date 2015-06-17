@@ -16,6 +16,11 @@
   "homepage": "https://github.com/ducin/json-schema-demo",
   "dependencies": {
     "chance": "^0.7.5",
-    "faker": "^2.1.5"
+    "faker": "^2.1.5",
+    "grunt": "^0.4.5",
+    "grunt-jsonschema-faker": "^0.1.4",
+    "json-schema-faker": "^0.1.12",
+    "jsonschema": "^1.0.1",
+    "lodash": "^3.9.3"
   }
 }
